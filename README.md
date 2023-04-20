@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Alex
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python backend developer. Student of Yandex Practicum</h3>
 
 <!--
 **Aleks-Ti/Aleks-Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
