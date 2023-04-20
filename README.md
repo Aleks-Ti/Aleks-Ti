@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Alex
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python backend developer. Student of Yandex Practicum</h3>
+<h3 align="center">Python backend-developer. Student of Yandex Practicum</h3>
+<h5>My technology stack:</h5>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aleks-Ti/Aleks-Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
