@@ -1,5 +1,4 @@
-<h1 align="center">🅷🅸 🆃🅷🅴🆁🅴, 🅸'🅼 🅰🅻🅴🆇
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">🅷🅸 🆃🅷🅴🆁🅴, 🅸'🅼 🅰🅻🅴🆇</h1>
 <h2 align="center">Python backend developer</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A550&lines=My+basic+technology+stack:)](https://git.io/typing-svg)
@@ -19,6 +18,7 @@
 - 📫 How to reach me: ...
 
 <!--
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 **Aleks-Ti/Aleks-Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
