@@ -1,5 +1,5 @@
 <h1 align="center">🅷🅸 🆃🅷🅴🆁🅴, 🅸'🅼 🅰🅻🅴🆇</h1>
-<h2 align="center">Python backend developer</h2>
+<h2 align="center">Backend developer</h2>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A550&lines=My+basic+technology+stack:)](https://git.io/typing-svg)
 
