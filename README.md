@@ -31,16 +31,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleks-Ti&theme=solarized_dark)
 
 - 🌱 I’m currently learning: FastApi, asyncio
-- 📫 How to reach me: [Telegram](https://t.me/rombyard)
+- 📫 How to reach me: [Telegram](https://t.me/rombyard) | [Linkedin](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D1%82%D0%BA%D0%B0%D1%87%D0%B5%D0%BD%D0%BA%D0%BE-a6b252286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FBGZj58%2BSlWxo0mVhJaxlA%3D%3D)
 
 <!--
 
 **Aleks-Ti/Aleks-Ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
