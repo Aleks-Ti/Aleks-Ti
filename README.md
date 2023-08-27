@@ -14,8 +14,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleks-Ti&theme=solarized_dark)
 
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning FastApi
+- 📫 How to reach me: [Telegram](https://t.me/rombyard)
 
 <!--
 
