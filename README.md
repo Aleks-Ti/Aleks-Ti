@@ -3,18 +3,34 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A550&lines=My+basic+technology+stack:)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-0000FF)
+![Static Badge](https://img.shields.io/badge/Django-228B22)
+![Static Badge](https://img.shields.io/badge/Django_REST-framework-red)
+![Static Badge](https://img.shields.io/badge/Docker-008080)
+![Static Badge](https://img.shields.io/badge/Nginx-006400)
+![Static Badge](https://img.shields.io/badge/Git-FF4500)
+![Static Badge](https://img.shields.io/badge/Linux-FFDAB9)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-4682B4)
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/REST_API-6A5ACD)
+![Static Badge](https://img.shields.io/badge/Postman-D2691E)
+![Static Badge](https://img.shields.io/badge/Logging-696969)
+![Static Badge](https://img.shields.io/badge/unittest-800000)
+![Static Badge](https://img.shields.io/badge/DBeaver-66CDAA)
+
+![Static Badge](https://img.shields.io/badge/HTML-FF7F50)
+![Static Badge](https://img.shields.io/badge/CSS-00CED1)
+![Static Badge](https://img.shields.io/badge/Bootstrap-7B68EE)
+![Static Badge](https://img.shields.io/badge/Jinja-000000)
+
+![Static Badge](https://img.shields.io/badge/FastAPI-2E8B57)
+![Static Badge](https://img.shields.io/badge/asyncio-808000)
+![Static Badge](https://img.shields.io/badge/pydantic-sqlalchemy-black)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleks-Ti&theme=solarized_dark)
 
-- 🌱 I’m currently learning FastApi
+- 🌱 I’m currently learning: FastApi, asyncio
 - 📫 How to reach me: [Telegram](https://t.me/rombyard)
 
 <!--
