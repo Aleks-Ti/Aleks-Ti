@@ -25,6 +25,7 @@
 
 ![Static Badge](https://img.shields.io/badge/FastAPI-2E8B57)
 ![Static Badge](https://img.shields.io/badge/asyncio-808000)
+![Static Badge](https://img.shields.io/badge/aiohttp-2E8B57)
 ![Static Badge](https://img.shields.io/badge/pydantic-sqlalchemy-black)
 
 
