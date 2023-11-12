@@ -1,34 +1,7 @@
 <h1 align="center">🅷🅸 🆃🅷🅴🆁🅴, 🅸'🅼 🅰🅻🅴🆇</h1>
 <h2 align="center">Backend developer</h2>
 
-<style>
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
-
-  .typing-svg {
-    white-space: nowrap;
-    overflow: hidden;
-    display: inline-block;
-    animation: typing 10s steps(60, end) infinite;
-    color: #00A550; /* Зеленый цвет */
-    font-size: 1.2em; /* Увеличение размера шрифта */
-    font-weight: bold; /* Жирный текст */
-  }
-</style>
-
-<p align="center">
-  <span class="typing-svg">
-    Welcome to my GitHub!
-    <br>
-    My Tech Stack:
-  </span>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300A550&lines=My+basic+technology+stack:)](https://git.io/typing-svg)
 
 ![Static Badge](https://img.shields.io/badge/Python-0000FF)
 ![Static Badge](https://img.shields.io/badge/Django-228B22)
